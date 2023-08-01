@@ -16,7 +16,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dev-hackers.github.io/preparatory-steps/working_process/start_working%20process/</loc>
+         <loc>https://dev-hackers.github.io/preparatory-steps/working_process/sandbox_dev_hackers/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dev-hackers.github.io/preparatory-steps/working_process/start_working_process/</loc>
          <lastmod>2023-08-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
