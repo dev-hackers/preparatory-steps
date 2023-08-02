@@ -1,0 +1,3 @@
+mkdocs
+readthedocs-build
+mkdocs-awesome-pages-plugin

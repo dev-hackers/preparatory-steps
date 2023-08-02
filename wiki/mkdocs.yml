@@ -1,0 +1,53 @@
+site_name: dev-hackers подготовительные шаги.
+
+
+
+
+site_url: https://dev-hackers.github.io/preparatory-steps/
+
+nav:    
+    - Главная:  index.md
+
+    
+        
+    - Подготовительные действия:   
+        - dev-hackers:
+            - git старт: git_start/git-started.md
+            #- Старт: dev-hackers/dev-hackers-start.md
+
+    - Процесс обучения:
+        - Начало с проекта:
+            - Общее описание: working_process/start_working_process.md
+            - programmer's sandbox dev-hackers: working_process/sandbox_dev_hackers.md
+
+
+            
+
+            #- Posts: v1/types/posts.m
+
+
+markdown_extensions:
+
+  
+  
+  - toc:
+      permalink: True         
+    
+
+# сворачивание страниц
+collapse_single_pages: true
+
+    
+
+theme: readthedocs
+
+site_author:
+    Валерий Бовсуновский  
+
+    
+    
+
+    
+    
+   
+
