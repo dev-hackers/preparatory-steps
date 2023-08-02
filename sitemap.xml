@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dev-hackers.github.io/preparatory-steps/</loc>
-         <lastmod>2023-08-01</lastmod>
+         <lastmod>2023-08-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev-hackers.github.io/preparatory-steps/dev-hackers/dev-hackers-start/</loc>
-         <lastmod>2023-08-01</lastmod>
+         <lastmod>2023-08-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev-hackers.github.io/preparatory-steps/git_start/git-started/</loc>
-         <lastmod>2023-08-01</lastmod>
+         <lastmod>2023-08-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dev-hackers.github.io/preparatory-steps/working_process/sandbox_dev_hackers/</loc>
-         <lastmod>2023-08-01</lastmod>
+         <loc>https://dev-hackers.github.io/preparatory-steps/working_process/process_step_by_step/</loc>
+         <lastmod>2023-08-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dev-hackers.github.io/preparatory-steps/working_process/start_working_process/</loc>
-         <lastmod>2023-08-01</lastmod>
+         <lastmod>2023-08-02</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
