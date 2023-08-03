@@ -6,7 +6,7 @@
 
 *Обратите внимание, пример проекта рассмотренный в этом видео, в реальности он называется
 `Order of Learning a Programming Language`, на него может действовать изменение цен на участие.
-[читайте об этом на сайте школы программирования](https://spb-tut.ru/programming_school/price-change/*).*
+[читайте об этом на сайте школы программирования](https://spb-tut.ru/programming_school/price-change/).*
 
 
 [https://www.youtube.com/watch?v=xnQ9cJvbSqA&t=1385s](https://www.youtube.com/watch?v=xnQ9cJvbSqA&t=1385s)
